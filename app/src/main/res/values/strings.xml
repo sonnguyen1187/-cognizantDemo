@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="item_name">item name</string>
+    <string name="btn_item_button">Click details</string>
+</resources>
